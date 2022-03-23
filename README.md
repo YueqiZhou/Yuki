@@ -1,3 +1,7 @@
+Hi this is Yuki's website.
+This is a novice website :)
+
+
 # student-site
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
